@@ -1,2 +1,4 @@
 # kimura
-aaaaaaaaaaaaaaaaa
+俺のレポジトリ
+
+編集とかはここでやるかな
